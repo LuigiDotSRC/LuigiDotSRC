@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuigiDotSRC, a CS major at Toronto Metropolitan University 
+- 👋 Hi, I’m @LuigiDotSRC, an undergraduate Computer Science student at Toronto Metropolitan University 
 - 👀 I’m interested in BackEnd Engineering and Cloud Development
 - 🌱 I’m currently learning Azure, C, JavaScript, and Linear Algebra
 - 💞️ I’m looking to collaborate on IoT centric projects and Azure Infrastructure projects
