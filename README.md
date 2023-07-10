@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @LuigiDotSRC, an undergraduate Computer Science student at Toronto Metropolitan University 
-- 👀 I’m interested in BackEnd Engineering and Cloud Development
-- 🌱 I’m currently learning Azure, C, Data Structures, and Linear Algebra
-- 💞️ I’m looking to collaborate on IoT centric projects and Azure Infrastructure projects
-- 📫 You can reach me at LinkedIn: https://www.linkedin.com/in/luigi-terashima-a11782213/
+# LuigiDotSRC 
 
-<!---
-LuigiDotSRC/LuigiDotSRC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+### 👋 Hello, my name is Luigi Andre Terashima. Welcome to my Github Page! 
+
+I'm an undergraduate Computer Science student at Toronto Metropolitan University. Passionate about leveraging technology to drive innovation and solve complex problems.
+
+### Some topics I am interested in are: 
+- 👨‍💻🔨📂 Back End Engineering
+- 💻🌐🔗 Internet Of Things 
+- 🤖🔌🧠 Artificial Intelligence 
+
+### Connect With Me: 
+https://www.linkedin.com/in/luigi-terashima/
