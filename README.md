@@ -1,6 +1,5 @@
 # LuigiDotSRC 
 
----
 ### 👋 Hello, my name is Luigi Andre Terashima. Welcome to my Github Page! 
 
 I'm an undergraduate Computer Science student at Toronto Metropolitan University. Passionate about leveraging technology to drive innovation and solve complex problems.
